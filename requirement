@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+
+run:python -m streamlit run app.py
